@@ -7,3 +7,8 @@
 img{
     width: 100%;
 }
+
+.flexbox{
+    display: flex;
+    direction: row;
+}
